@@ -117,7 +117,7 @@ global.princeImg = [imagen1, imagen2]
 
 
 // Moderator 
-global.developer = 'https://wa.me/message/DCAK67ON3XVOG1' //contact
+global.developer = 'https://wa.me/+923441715800' //contact
 //💌------------------------------------------💌
 
 
