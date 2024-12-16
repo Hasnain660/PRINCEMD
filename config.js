@@ -102,7 +102,7 @@ global.imagen2 = fs.readFileSync("./lib/source/menus/img2.jpg")
 
 
 
-global.imag1 = fs.readFileSync("./lib/source/prn.png")
+global.imag1 = fs.readFileSync("./lib/source/IMG-20241208-WA0010.jpg")
 global.imag2 = fs.readFileSync("./lib/source/prn1.png")
 global.imag3 = fs.readFileSync("./lib/source/prn2.jpg")
 
@@ -134,7 +134,7 @@ global.menuvid = 'https://qu.ax/doEao.jpg'
 global.Princesc = 'https://github.com/PRINCE-GDS/THE-PRINCE-BOT' 
 global.princeyt = 'https://youtube.com/'
 global.Princelog = 'https://qu.ax/doEao.jpg'
-global.thumb = fs.readFileSync('./lib/source/Prince.png')
+global.thumb = fs.readFileSync('./lib/source/IMG-20241208-WA0010.jpg')
 //💌------------------------------------------💌
 
 
