@@ -127,13 +127,13 @@ global.wm = process.env.BOT_NAME
 global.botname = process.env.BOT_NAME
 global.princebot = '🛡️𝘗𝘙𝘐𝘕𝘊𝘌-𝘉𝘖𝘛-𝘔𝘋🛡️'
 global.packname = process.env.PACK_NAME
-global.author = 'Prince♥️' 
+global.author = 'Hasnain♥️' 
 global.princeig = 'https://www.instagram.com' 
-global.princegp = 'https://whatsapp.com/channel/0029VaKNbWkKbYMLb61S1v11'
-global.menuvid = 'https://i.imgur.com/GFAAXqw.mp4'
+global.princegp = 'https://whatsapp.com/channel/0029VajP4Y2BadmgBG255a0T'
+global.menuvid = 'https://qu.ax/doEao.jpg'
 global.Princesc = 'https://github.com/PRINCE-GDS/THE-PRINCE-BOT' 
 global.princeyt = 'https://youtube.com/'
-global.Princelog = 'https://i.imgur.com/cUvIv5w.jpeg'
+global.Princelog = 'https://qu.ax/doEao.jpg'
 global.thumb = fs.readFileSync('./lib/source/Prince.png')
 //💌------------------------------------------💌
 
